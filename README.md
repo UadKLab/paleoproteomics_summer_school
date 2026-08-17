@@ -4,7 +4,7 @@ This hands-on notebook takes participants from a PRIDE `.raw` file through `mzML
 
 **Quick Start**: [Open `paleoproteomics_instanovo.ipynb` in Google Colab](https://colab.research.google.com/github/UadKLab/paleoproteomics_summer_school/blob/main/paleoproteomics_instanovo.ipynb)<br/>
 
-**Credits**: This notebook was created by Yun Chiang and Jeroen van Goey.
+**Credits**: This notebook was created by Yun Chiang, Jemma Daniel, and Jeroen van Goey.
 <br/>
 **used in this practical**:
 > [ThermoRawFileParser](https://github.com/compomics/ThermoRawFileParser) To convert Thermo `.raw` to .mzML<br/>
