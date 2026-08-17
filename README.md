@@ -1,4 +1,4 @@
- ### _De novo_ section for PAASTA Bioinformatics Summer School 2026
+ ### _De novo_ section for Paleoproteomics Summer School 2026
 
 This hands-on notebook takes participants from a PRIDE `.raw` file through `mzML` conversion, InstaNovo *de novo* prediction, spectrum annotation, and confidence assessment. An optional final section covers confidence calibration, FDR control, and PSM QC with winnow.
 
