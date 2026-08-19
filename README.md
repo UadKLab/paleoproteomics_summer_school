@@ -1,5 +1,5 @@
- ### _De novo_ section for PAASTA Bioinformatics Summer School 2026
-**Quick Start** : Click paasta_denovo.ipynb and then open in Colab💻<br/>
+
+**Quick Start** : Click on the notebook and then open in Colab💻<br/>
 <br/>
 **used in this practical**:
 > [ThermoRawFileParser](https://github.com/compomics/ThermoRawFileParser) To convert Thermo `.raw` to .mzML<br/>
